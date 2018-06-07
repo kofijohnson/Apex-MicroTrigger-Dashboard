@@ -1,0 +1,24 @@
+{
+  "packageDirectories": [
+    {
+      "path": "MicroTriggerDashboard",
+      "default": true,
+      "id": "0Hof20000004CAkCAM",
+      "versionName": "June 18",
+      "versionNumber": "1.0.0.NEXT",
+      "dependencies": [
+        {
+          "packageId": "0Hof20000004CAaCAM",
+          "versionNumber": "1.0.0.LATEST"
+        },
+        {
+          "packageId": "0Hof20000004CAfCAM",
+          "versionNumber": "1.0.0.LATEST"
+        }
+      ]
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
