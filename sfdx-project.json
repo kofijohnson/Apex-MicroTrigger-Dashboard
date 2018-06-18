@@ -8,11 +8,11 @@
       "versionNumber": "1.0.0.NEXT",
       "dependencies": [
         {
-          "packageId": "0Hof20000004CAaCAM",
+          "packageId": "MICROTRIGGERFRAMEWORK_PACKAGE_ID",
           "versionNumber": "1.0.0.LATEST"
         },
         {
-          "packageId": "0Hof20000004CAfCAM",
+          "packageId": "TREEDIAGRAMLIBRARY_PACKAGE_ID",
           "versionNumber": "1.0.0.LATEST"
         }
       ]
